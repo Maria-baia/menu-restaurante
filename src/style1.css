@@ -4,8 +4,7 @@
 body{
     font-family: 'Lato';
     font-size: 18px;
-    background-image: url(/estilizando-menu-restaurante-sprint-2-Maria-baia/src/img/map-bg.jpg
-    );
+    background-image: url(./img/map-bg.jpg);
 }
 nav {
     font-family: sans-serif; 
